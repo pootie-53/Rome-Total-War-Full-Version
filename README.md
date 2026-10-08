@@ -241,4 +241,4 @@ This repository serves as the official landing page for Rome: Total War. The sof
 **Get the most recent version of Rome: Total War today!**
 
 ---
-**Last updated:** 2026-10-08 06:43:23 UTC
+**Last updated:** 2026-10-08 14:06:31 UTC
